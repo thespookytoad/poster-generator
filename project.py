@@ -38,7 +38,7 @@ def generate_poster():
     print(f"{bg}, {primary}, {secondary}, {accent}")
   else:
     while palette not in palette_options:
-      palette = input(f"That is not a valid palette. Pick from these: {palette_options}. ").lower()
+      palette = input(f"That is not a valid palette. Pick from these: {palette_names}. ").lower()
     print(f"Your palette is {palette}.")
   
   # Width
