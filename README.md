@@ -18,7 +18,7 @@ What can the users modify?
 
 ## Meet the Designers
 
-- **Sela:** [Brief description of their tile designs or contribution.]
+- **Sela:**
 - **Rui:** [Brief description of their tile designs or contribution.]
 - **Alexander:** [Brief description of their tile designs or contribution.]
 - **Carolina:** [Brief description of their tile designs or contribution.]
