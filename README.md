@@ -28,8 +28,8 @@ What can the users modify?
 Copy this code into a Colab Notebook.
 
 ```python
-!git clone https://github.com/sarahchase/cc-f26-group-project.git
-%cd cc-f26-group-project
+!git clone https://github.com/thespookytoad/poster-generator
+%cd poster-generator
 !pip install -r requirements.txt
 from project import generate_poster
 generate_poster()
