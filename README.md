@@ -10,11 +10,11 @@
 
 ## About the Project
 
-[Write a short description of your project. What was the idea behind your poster generator? What visual qualities or design ideas inspired it? How does the program combine everyone's individual tile designs into a unified composition?]
+We each created a design for corner, border, and center tiles, as well as a color palette. In the final project, we combined all of our separate functions and palettes into one file so the user will have a randomly generated poster pattern.
 
 ## The Interface
 
-What can the users modify?
+When creating a poster, the user can give it a title, choose a color palette (one of the four we created, or a random set of colors), and decide the height and width of the poster.
 
 ## Meet the Designers
 
