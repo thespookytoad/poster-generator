@@ -2,8 +2,8 @@
 
 ![Example final poster](poster.svg)
 
-**Created by:** Sela, Rui, Alexander, & Carolina 
-**Course:** Creative Coding, Pratt Institute  
+**Created by:** Sela, Rui, Alexander, & Carolina
+**Course:** Creative Coding, Pratt Institute
 **Semester:** Fall 2026
 
 ## About the Project
