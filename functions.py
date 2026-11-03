@@ -857,3 +857,5 @@ def draw_carolina_tile(t, x, y, size, rotation, palette, tile_type="center"):
     t.setheading(0)
     t.pencolor((0, 0, 0))
     t.fillcolor((255, 255, 255))
+
+tile_functions = [draw_sela_tile, draw_alexander_tile, draw_rui_tile, draw_carolina_tile] # [person1_function, person2_function, person3_function, person4_function]
