@@ -20,7 +20,7 @@ What can the users modify?
 
 - **Sela:** My palette and tile designs are halloween-inspired!
 - **Rui:** [Brief description of their tile designs or contribution.]
-- **Alexander:** [Brief description of their tile designs or contribution.]
+- **Alexander:** My palette ended up becoming easter themed but less vibrant, and my tile designs were inspired my love of geometric abstraction, as well as minimalism 
 - **Carolina:** [Brief description of their tile designs or contribution.]
 
 ## Try it yourself
