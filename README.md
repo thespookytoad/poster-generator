@@ -1,11 +1,8 @@
-# poster-generator
-Poster generator group project
-
-# [Poster Generator]
+# Poster Generator
 
 ![Example final poster](poster.svg)
 
-**Created by:** [Student 1], [Student 2], [Student 3], [Student 4]  
+**Created by:** Sela, Rui, Alexander, & Carolina 
 **Course:** Creative Coding, Pratt Institute  
 **Semester:** Fall 2026
 
@@ -19,10 +16,10 @@ What can the users modify?
 
 ## Meet the Designers
 
-- **[Student 1]:** [Brief description of their tile designs or contribution.]
-- **[Student 2]:** [Brief description of their tile designs or contribution.]
-- **[Student 3]:** [Brief description of their tile designs or contribution.]
-- **[Student 4]:** [Brief description of their tile designs or contribution.]
+- **Sela:** [Brief description of their tile designs or contribution.]
+- **Rui:** [Brief description of their tile designs or contribution.]
+- **Alexander:** [Brief description of their tile designs or contribution.]
+- **Carolina:** [Brief description of their tile designs or contribution.]
 
 ## Try it yourself
 
