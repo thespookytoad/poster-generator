@@ -3,7 +3,7 @@ Poster generator group project
 
 # [Poster Generator]
 
-![Example final poster](example_poster.svg)
+![Example final poster](poster.svg)
 
 **Created by:** [Student 1], [Student 2], [Student 3], [Student 4]  
 **Course:** Creative Coding, Pratt Institute  
