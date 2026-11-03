@@ -11,7 +11,7 @@ def generate_poster():
   print(f"Your title is '{title}'.")
   
   # Choose a palette
-  palette = input(f"What color palette do you want to use? The options are: {palette_options} OR random! ").lower()
+  palette = input(f"What color palette do you want to use? The options are: {palette_names} OR random! ").lower()
   
   if palette == "random":
     print("Now generating a random color palette...")
