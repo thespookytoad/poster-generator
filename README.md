@@ -49,7 +49,7 @@ Or click below to open an example notebook in Google Colab and generate your own
 ## Files
 
 - `project.py` – Main poster-generation program.
-- `TileFunctions.py` – Collection of custom tile-drawing functions.
-- `PaletteOptions.py` – Available color palettes.
+- `functions.py` – Collection of custom tile-drawing functions.
+- `palettes.py` – Available color palettes.
 - `requirements.txt` – Required Python libraries.
-- `example_poster.svg` – Scalable vector version of an example final poster image.
+- `poster.svg` – Example final poster image.
