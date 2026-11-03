@@ -18,7 +18,7 @@ What can the users modify?
 
 ## Meet the Designers
 
-- **Sela:**
+- **Sela:** My palette and tile designs are halloween-inspired!
 - **Rui:** [Brief description of their tile designs or contribution.]
 - **Alexander:** [Brief description of their tile designs or contribution.]
 - **Carolina:** [Brief description of their tile designs or contribution.]
