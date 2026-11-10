@@ -21,7 +21,7 @@ When creating a poster, the user can give it a title, choose a color palette (on
 ## Meet the Designers
 
 - **Sela:** My palette and tile designs are halloween-inspired!
-- **Rui:** [Brief description of their tile designs or contribution.]
+- **Rui:** My palette is minimalistic with simple lines, dots, curves, and stars.
 - **Alexander:** My palette ended up becoming easter themed but less vibrant, and my tile designs were inspired my love of geometric abstraction, as well as minimalism 
 - **Carolina:** [Brief description of their tile designs or contribution.]
 
