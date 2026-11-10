@@ -11,7 +11,9 @@
 ## About the Project
 
 We each created a design for corner, border, and center tiles, as well as a color palette. In the final project, we combined all of our separate functions and palettes into one file so the user will have a randomly generated poster pattern.
-The code first asks the user to name the poster, taking the user's input and storing it as the title. Then, the user chooses a palette, either one created by us or a random palette. If random is selected, random RGB values are generated for each of the four colors. Then, the user provides the width and height for the pattern, with a minimum of 1 square and a maximum of 15 squares.
+
+The code first asks the user to name the poster, taking the user's input and storing it as the title. Then, the user chooses a palette, either one created by us or a random palette. The palettes we created are stored in dictionaries in the palette file. If random is selected, random RGB values are generated for each of the four colors. Then, the user provides the width and height for the pattern, with a minimum of 1 square and a maximum of 15 squares.
+
 The poster is then created with Turtle. The code identifies if it should draw a corner, border, or center piece, and rotates it randomly (unless it's a corner). Then, the title is written under the final design.
 
 ## The Interface
