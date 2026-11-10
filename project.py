@@ -8,7 +8,7 @@ from palettes import *
 def generate_poster():
   # Ask user for title
   title = input("What is the title of this poster? ")
-  print(f"Your title is '{title}'.")
+  print(f"Your title is '{title}'.\n")
   
   # Choose a palette
   palette = input(f"What color palette do you want to use? The options are: {palette_names}!").lower()
@@ -38,21 +38,21 @@ def generate_poster():
     b = np.random.randint(256)
     accent = (r, g, b)
     print("Palette successfully generated!")
-    print(f"{bg}, {primary}, {secondary}, {accent}")
+    print(f"{bg}, {primary}, {secondary}, {accent}\n")
   else:
-    print(f"Your palette is {palette}.")
+    print(f"Your palette is {palette}.\n")
   
   # Width
   width = int(input("How many tiles wide will the pattern be? "))
   while width < 1 or width > 15:
     width = int(input("Please enter a valid number between 1 and 15: "))
-  print(f"The width will be {width}.")
+  print(f"The width will be {width}.\n")
   
   # Height
   height = int(input("How many tiles tall will the pattern be? "))
   while height < 1 or height > 15:
     height = int(input("Please enter a valid number between 1 and 15: "))
-  print(f"The height will be {height}.")
+  print(f"The height will be {height}.\n")
 
   # Set up the screen
   screen_width = 1000
