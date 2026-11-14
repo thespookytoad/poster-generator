@@ -14,7 +14,7 @@ We each created a design for corner, border, and center tiles, as well as a colo
 
 The code first asks the user to name the poster, taking the user's input and storing it as the title. Then, the user chooses a palette, either one created by us or a random palette. The palettes we created are stored in dictionaries in the palettes.py file. If random is selected, random RGB values are generated for each of the four colors (background, primary, secondary, and accent). Then, the user provides the width and height for the pattern, with a minimum of 1 square and a maximum of 15 squares.
 
-The poster is then created with Turtle. Each of our tile designs has a function in the functions.py file telling Turtle how to draw the patterns. The code calls one of our functions randomly for each square. It identifies if it should draw a corner, border, or center piece based on the position the square will be, and then it rotates the square randomly (unless it's a corner). After all the tiles are drawn, the user-provided title is written under the final design, along with our names.
+The poster is then created with Turtle. Each of our tile designs has a function in the functions.py file telling Turtle how to draw the patterns. The code calls one of our functions randomly for each square. It identifies if it should draw a corner, border, or center piece based on the position the square will be, and then it rotates the square randomly (unless it's a corner). After all the tiles are drawn, the user-provided title is written under the final design, along with our names and the color palette with RGB values.
 
 ## The Interface
 
